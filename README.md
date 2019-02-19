@@ -1,11 +1,11 @@
-# Operating-Systems
+## Operating-Systems
 
 Codes for simulating various processes performed by an Operating system.
 
-To implement process system call in Unix.
+Implemented process system calls in Unix.
 
-Apply various process scheduling/disk scheduling algorithm.
+Applied various process scheduling/disk scheduling algorithm.
 
-Implement inter process communication.
+Implemented inter process communication.
 
-Implement various file and memory management strategy.
+Implemented various file and memory management strategy.
